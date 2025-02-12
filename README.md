@@ -4,7 +4,7 @@ Heart Disease is the leading cause of death worldwide, accounting for 32% of all
 
 I will be using anonymized data from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) on over 900 patients to train a **Machine Learning** model to predict a patient's likelihood of having Heart Disease.
 
-I will be using:
+**I will be using:**
 - **Kaggle** data as the data source
 - **Pandas Dataframes** to store the data
 - **SciKit Learn** library to create and train the model on the data
