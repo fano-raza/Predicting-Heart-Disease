@@ -8,5 +8,3 @@ I will be using anonymized data from [Kaggle](https://www.kaggle.com/datasets/fe
 - **Kaggle** data as the data source
 - **Pandas Dataframes** to store the data
 - **SciKit Learn** library to create and train the model on the data
-
-[test text to see if push works]
