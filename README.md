@@ -52,8 +52,3 @@ Early prediction of heart disease allows:
 - 🧬 Personalized treatment plans  
 - 📉 Reduced healthcare costs  
 - ❤️ Improved patient outcomes
-
----
-
-## 📁 Project Structure (Optional)
-
